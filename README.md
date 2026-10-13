@@ -1,3 +1,3 @@
-# ThadUra
+# Thaddeus Dziura
 
-My personal static website utilizing simple html/css/js.
+Vist [thadUra.github.io] (https://thadura.github.io/m).
